@@ -36,7 +36,7 @@ While the documentation is aimed to be understood in any order, it is preferable
 
 ### Control flow
 The following flowchart describes the control flow of the script during execution
-![flowchart](IMG-20240715-WA0007.jpg)
+![flowchart](IMG-20240715-WA0007.png)
 
 ---
 
